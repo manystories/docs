@@ -52,14 +52,9 @@ Because there is no better "medicine" for a city than to talk with itself, to be
 
 ### Who created this project
 
-We are a small team of professionals who live and work in Thessaloniki. We believe that citizens can do more than they think to make their life better. In fact citizens can change their city although the opposite is not true.
-
-This project is a try to give back to our city. It is an official submission for the 2016 [Apps4Thessaloniki competition - Tourism edition](http://thessaloniki.appsforgreece.eu/en). We are not affiliated with any public sector organization of the city.
-
 [Theodoros Ploumis](http://www.theodorosploumis.com/en)
+(Web designer and developer)
 
-Web design and development. Idea development.
+I live and work in Thessaloniki. I believe that citizens can do more than they think to make their life better. In fact citizens can change their city although the opposite is not true.
 
-[Sophia Dampali](http://www.dampali.gr)
-
-Legal advise, terms of use etc.
+This project is a try to give back to my city. It is an official submission for the 2016 [Apps4Thessaloniki competition - Tourism edition](http://thessaloniki.appsforgreece.eu/en). I am not affiliated with any public sector organization of the city.
