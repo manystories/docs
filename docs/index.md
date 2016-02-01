@@ -3,9 +3,9 @@
 # ManyStories
 
 - Online website: [manystoriesoneheart.gr](http://manystoriesoneheart.gr)
+- Apps (using the APIs): [apps.manystoriesoneheart.gr](http://apps.manystoriesoneheart.gr)
 - Documentation: [manystories.readthedocs.org](http://manystories.readthedocs.org/)
 - Github organization: [github.com/manystories](https://github.com/manystories/)
-- Apps (using the APIs): [manystories.github.io/apps](http://manystories.github.io/apps/)
 
 This project is a try to give back to our city. It is an official submission for the 2016 [Apps4Thessaloniki competition - Tourism edition](http://thessaloniki.appsforgreece.eu/en). We are not affiliated with any public sector organization of the city.
 
