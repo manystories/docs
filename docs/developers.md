@@ -68,7 +68,7 @@ Wikiwand is probably the best reader for [Wikipedia](https://www.wikipedia.org/)
 
 Markdown is a text-to-HTML conversion tool for web writers. We use this tool to create the content for the basic website pages as also as for the Github documentation.
 
-#### 10. jQuery countTo]
+#### 10. jQuery countTo
 
 [jQuery countTo](https://github.com/mhuggins/jquery-countTo)
 
